@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.env
+.venv
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# SQLite databases (optional, but keep default seed or track seed.py)
+data/*.db-journal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
