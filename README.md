@@ -282,7 +282,6 @@ Run the full automated test suite verifying Memory Defense, Hindsight Memory Rec
 ```bash
 python -m unittest discover tests
 ```
-
 ---
 
 ## 12. Security & Compliance
