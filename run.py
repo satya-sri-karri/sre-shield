@@ -10,6 +10,7 @@ if hasattr(sys.stdout, 'reconfigure'):
 if hasattr(sys.stderr, 'reconfigure'):
     sys.stderr.reconfigure(encoding='utf-8', errors='replace')
 
+
 ROOT_DIR = Path(__file__).resolve().parent
 
 def main():
