@@ -173,12 +173,12 @@ sre-shield/
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-org/sre-shield.git
-cd SRE-Shield
+git clone https://github.com/satya-sri-karri/sre-shield.git
+cd sre-shield
 ```
 
 ### Step 2: Install dependencies
-```bash
+```bashgit status
 pip install -r requirements.txt
 ```
 
