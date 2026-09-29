@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Project Overvie
+## 1. Project Overview
 
 **SRE-Shield** is an autonomous, self-learning Incident Response platform designed for DevOps and Site Reliability Engineering (SRE) teams. Instead of treating outages as isolated emergencies or answering queries like a stateless chatbot, SRE-Shield acts like a **Principal SRE with persistent long-term memory**. 
 
